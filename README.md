@@ -20,8 +20,7 @@
 | ![](docs/seamed_pic.png) | ![](docs/output_still_composite.png) |
 | *物体の途中で不自然な切断が発生* | *物体の輪郭に沿った自然な合成* |
 
-### 動画デモ
-[▶️ デモ映像を再生する](docs/demo.mp4)
+
 
 ---
 
