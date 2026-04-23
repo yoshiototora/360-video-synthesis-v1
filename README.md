@@ -17,11 +17,11 @@
 ### Before / After 比較
 | 従来手法 (Before) | 提案手法 (After) |
 |:---:|:---:|
-| ![](docs/before.png) | ![](docs/after.png) |
+| ![](docs/seamed_pic.png) | ![](docs/output_still_composite.png) |
 | *物体の途中で不自然な切断が発生* | *物体の輪郭に沿った自然な合成* |
 
 ### 動画デモ
-[▶️ デモ映像を再生する](https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)
+[▶️ デモ映像を再生する](docs/demo.mp4)
 
 ---
 
